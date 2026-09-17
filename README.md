@@ -13,4 +13,4 @@ A Python-based cognitive assessment app built with ipywidgets, designed to run i
 - Google Colab
 
 ## How to run
-Open `iq_testing_app.py` in Google Colab or Jupyter Notebook and run all cells.
+Open `IQ-MATRIX` in Google Colab or Jupyter Notebook and run all cells.
